@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    username: root
+    password: 4231
+    url: jdbc:mysql://lcalhost:8080/ry-vue?serverTimeZone=UTC
